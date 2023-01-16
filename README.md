@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riyadul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer developer from Bangladesh</h3>
 
 
 
